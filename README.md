@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/c6wcp6iqtywavoc0?svg=true)](https://ci.appveyor.com/project/Maden51/arraybuffer)
